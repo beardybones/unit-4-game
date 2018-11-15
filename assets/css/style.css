@@ -27,3 +27,44 @@ background-color: orangered
 #score {
     background-color: teal
 }
+
+#button1 {
+    background-image: url(images/topaz.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    /* put the height and width of your image here */
+    height: 50px;
+    width: 50px;
+    border: none;
+  }
+ 
+#button2 { 
+    background-image: url(images/ruby.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    /* put the height and width of your image here */
+    height: 50px;
+    width: 50px;
+    border: none;
+} 
+#button3 {
+    background-image: url(images/emerald.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    /* put the height and width of your image here */
+    height: 50px;
+    width: 50px;
+    border: none;
+}
+#button4 {   
+    background-image: url(images/amethyst.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    /* put the height and width of your image here */
+    height: 50px;
+    width: 50px;
+    border: none;
+}
+  button span {
+    display: none;
+  }

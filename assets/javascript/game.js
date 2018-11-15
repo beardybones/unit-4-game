@@ -14,10 +14,10 @@ $(document).ready(function () {
 
     
 
-    console.log(crystal1);
-    console.log(crystal2);
-    console.log(crystal3);
-    console.log(crystal4);
+    // console.log(crystal1);
+    // console.log(crystal2);
+    // console.log(crystal3);
+    // console.log(crystal4);
 
     $("#button1").on("click", function () {
         score += crystal1;
